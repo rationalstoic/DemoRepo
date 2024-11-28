@@ -7,4 +7,6 @@ watch youtube tutorial.
 
 ## Subheader
 
-For some reason I cannot get this to commit. 
+## Local Development
+
+1. Open index.html in your browser
